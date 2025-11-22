@@ -1,3 +1,5 @@
 # sakshi_project
 This is my project
-Author - sakshi chitnis
+<br>
+Author - Sakshi Chitnis
+</br>
